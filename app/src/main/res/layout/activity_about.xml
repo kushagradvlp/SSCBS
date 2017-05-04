@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kushagra.sscbs.AboutActivity">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/textView4"
+        android:layout_alignStart="@+id/textView4"
+        android:layout_marginLeft="143dp"
+        android:layout_marginStart="143dp"
+        android:layout_marginTop="17dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Shaheed Sukhdev College of Business Studies (CBS) is one of the premier institution of the University of Delhi, imparting education in the fields of management and information technology with excellence and vision. It was established in August,1987 by the Delhi Administration on the initiation of UGC and the Ministry of Human Resources. The vision behind the college was of its first principal Dr. S.S. Gulshan. When the college was established it was named as “COLLEGE OF BUSINESS STUDIES ”. But later the college was rechristened as ‘ Shaheed Sukhdev College of Business Studies' in 1997, to pay homage to Indian revolutionary Sukhdev Thapar who along with Bhagat Singh and Shivaram Rajguru became part of independence folklore for their sacrifice. Shaheed Sukhdev College of Business Studies , or CBS, as it is better known in corporate circles, was the first undergraduate management school under the aegis of the University of Delhi(DU). Ingural ceremony after being renamed as SHAHEED SUKHDEV  COLLEGE OF BUSINESS STUDIES . In 1987 when our college was started it offered only one course i.e. BBS (Bachelor of Business Studies) . But with the growing demand in 1991, the College of Business Studies became the first college in Delhi University to adopt the semester system, for its BBS course. After 19 years, the semester system was then implemented in all courses across the university in 2010. In 1999, the college became the only college in the country to offer the BFIA programme, a core Finance based programme spread over six semesters. Bsc. Computer science has been converted into a B.tech degree.Up till 2012, the college also offered a Post-Graduate Diploma Course in Computer Application (PGDCA), which has since then been discontinued. From this year we also began with BMS course. Among the many things that set SSCBS apart, the college societies and the involvement of students in extra curricular activities is ranked very high. With over 20 societies, CBS has a society for almost every area of interest, and also for those who have no interests at all.  You name it and we have. Some of them being Blitz, Dumunmi, Ccomminique, MARKIT, FINX, Dhwani, Senergy, Verve, Parishram, Kartavya, Enactus, Dramaticssocietey,  Grandeur. "
+        android:layout_below="@+id/textView3"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
+    </ScrollView>

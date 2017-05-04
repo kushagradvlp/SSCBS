@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SSCBS</string>
+    <string name="textview">Exposure to  real business situations is a key point of the curriculum. This is done through case studies, summer training and Industrial visits.
+We have earnestly believed that imparting good education is about good faculty, good students and a learning environment. We are highly focused on each of these three areas. We also believe that education is not about teaching curriculum, it is about the development of human intellect, training the thought process to face unprecedented situations with confidence. It is about the development of personality, interpersonal skills and instilling the right value system.
+           At SSCBS it is about teaching and reaching out to each one of our students. We teach, we counsel and through the numerous student activities we impart life skills. We stand behind their (students) backs, we enjoy with them and more importantly we also learn. We have an intimate learning environment with each one of us engaged and accessible to our students, and many other fun opportunities to interact with each other.
+          Our students become close friends, making the most of all of this. They form clubs of every sort; they speak openly, sensibly and provocatively in class; they encourage one another in divergent careers and activities; and they (much like each one of us in the faculty) are independent thinkers who are not embarrassed to be interested in ideas or to think creatively, even as they remain devoted to such things as politics, sports, or any other activity of their choice.
+          Thus, the time one spends at SSCBS is an exciting journey to learn, to make lifelong friends, to differentiate between what one knows and what one doesn’t – also about knowing where to go and find what one needs to know and having got it knowing how to use the information.\n\n\n\n\n\n\n\n\n
+    </string>
+    <string name="textview0">\n\nShaheed Sukhdev College of Business Studies University of Delhi has a legacy of academic and professional excellence and has been a pioneer in undergraduate management education since 1987. The program curriculum in each of the courses is designed by our experienced faculty and lays the foundation for conceptual understanding. </string>
+    <string name="textview7">     \n\nThis we believe is wholesome education - truly an experience: If I were in your place I would like to study here and be part of this legacy that will make me feel proud.
+\nCheers !
+\nDr. Poonam Verma
+\nPrincipal\n
+</string>
+    <string-array name="country_arrays">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+
+</resources>
